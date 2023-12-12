@@ -1,0 +1,1140 @@
+region,mode,powertrain,year,total_sales
+EU27,Buses,BEV,2010,27
+United Kingdom,Cars,PHEV,2010,21
+Italy,Cars,BEV,2010,40
+EU27,Trucks,BEV,2010,8
+Italy,Trucks,BEV,2010,1
+Italy,Vans,BEV,2010,210
+EU27,Cars,PHEV,2010,9
+India,Cars,BEV,2010,450
+Japan,Cars,BEV,2010,2400
+Brazil,Buses,BEV,2010,3
+Austria,Vans,BEV,2010,41
+Korea,Buses,BEV,2010,5
+Korea,Cars,BEV,2010,61
+Europe,Vans,BEV,2010,1500
+Netherlands,Cars,BEV,2010,120
+EU27,Cars,BEV,2010,1400
+Denmark,Vans,BEV,2010,6
+Iceland,Trucks,BEV,2010,1
+EU27,Vans,BEV,2010,1300
+Europe,Trucks,BEV,2010,18
+France,Buses,BEV,2010,16
+France,Cars,BEV,2010,190
+Belgium,Vans,BEV,2010,7
+Belgium,Cars,PHEV,2010,8
+Europe,Cars,PHEV,2010,30
+USA,Cars,BEV,2010,1200
+France,Vans,BEV,2010,800
+Germany,Cars,BEV,2010,140
+Europe,Buses,BEV,2010,31
+Germany,Vans,BEV,2010,170
+United Kingdom,Vans,BEV,2010,230
+Belgium,Cars,BEV,2010,48
+United Kingdom,Buses,BEV,2010,4
+Europe,Cars,BEV,2010,2000
+Netherlands,Trucks,BEV,2010,3
+United Kingdom,Cars,BEV,2010,240
+Netherlands,Vans,BEV,2010,39
+Poland,Vans,BEV,2010,3
+Poland,Cars,PHEV,2010,1
+Poland,Cars,BEV,2010,15
+China,Cars,PHEV,2010,340
+United Kingdom,Trucks,BEV,2010,9
+Austria,Buses,BEV,2010,8
+China,Trucks,BEV,2010,5
+Other Europe,Cars,BEV,2010,21
+China,Buses,BEV,2010,1900
+Other Europe,Buses,BEV,2010,3
+China,Cars,BEV,2010,1100
+China,Vans,BEV,2010,120
+Portugal,Cars,BEV,2010,720
+Spain,Cars,BEV,2010,76
+Norway,Cars,BEV,2010,360
+Denmark,Trucks,BEV,2010,4
+Canada,Trucks,BEV,2010,1
+Norway,Vans,BEV,2010,1
+Sweden,Cars,BEV,2010,4
+New Zealand,Cars,BEV,2010,10
+Europe,Trucks,BEV,2011,17
+China,Buses,PHEV,2011,330
+Canada,Cars,BEV,2011,220
+Chile,Cars,BEV,2011,6
+Canada,Cars,PHEV,2011,300
+China,Buses,BEV,2011,450
+Canada,Trucks,BEV,2011,2
+Europe,Buses,BEV,2011,31
+Europe,Cars,PHEV,2011,430
+China,Cars,PHEV,2011,320
+China,Cars,BEV,2011,4800
+EU27,Trucks,BEV,2011,10
+China,Trucks,BEV,2011,100
+EU27,Cars,PHEV,2011,380
+EU27,Cars,BEV,2011,6700
+China,Vans,BEV,2011,150
+Denmark,Buses,BEV,2011,1
+United Kingdom,Trucks,BEV,2011,5
+United Kingdom,Cars,PHEV,2011,7
+Denmark,Cars,BEV,2011,420
+EU27,Buses,BEV,2011,29
+Denmark,Cars,PHEV,2011,2
+Denmark,Vans,BEV,2011,23
+EU27,Vans,BEV,2011,2200
+Australia,Cars,BEV,2011,49
+United Kingdom,Buses,BEV,2011,2
+Europe,Vans,BEV,2011,2500
+New Zealand,Buses,BEV,2011,2
+New Zealand,Cars,BEV,2011,13
+New Zealand,Cars,PHEV,2011,2
+Switzerland,Cars,PHEV,2011,41
+Norway,Cars,BEV,2011,2000
+Norway,Vans,BEV,2011,42
+Other Europe,Buses,BEV,2011,2
+Other Europe,Cars,BEV,2011,180
+Other Europe,Vans,BEV,2011,1
+Netherlands,Vans,BEV,2011,72
+Switzerland,Cars,BEV,2011,400
+Poland,Vans,BEV,2011,3
+Portugal,Cars,BEV,2011,190
+Portugal,Vans,BEV,2011,5
+Rest of the world,Cars,BEV,2011,42
+Sweden,Vans,BEV,2011,9
+Spain,Cars,BEV,2011,390
+Spain,Cars,PHEV,2011,8
+Spain,Vans,BEV,2011,24
+Sweden,Cars,BEV,2011,180
+Poland,Cars,BEV,2011,43
+United Kingdom,Cars,BEV,2011,1200
+Netherlands,Trucks,BEV,2011,7
+Netherlands,Cars,BEV,2011,860
+Finland,Cars,BEV,2011,30
+France,Buses,BEV,2011,21
+France,Cars,BEV,2011,2600
+France,Cars,PHEV,2011,96
+France,Vans,BEV,2011,1700
+Germany,Cars,BEV,2011,1400
+Germany,Cars,PHEV,2011,240
+Germany,Vans,BEV,2011,280
+USA,Cars,PHEV,2011,8000
+Netherlands,Cars,PHEV,2011,17
+India,Cars,BEV,2011,1400
+Italy,Cars,BEV,2011,110
+Italy,Trucks,BEV,2011,2
+Italy,Vans,BEV,2011,84
+Japan,Buses,BEV,2011,2
+Japan,Cars,PHEV,2011,15
+Japan,Vans,BEV,2011,850
+Korea,Buses,BEV,2011,4
+Korea,Cars,BEV,2011,270
+Mexico,Cars,BEV,2011,3
+Israel,Cars,BEV,2011,3
+United Kingdom,Vans,BEV,2011,220
+Iceland,Trucks,BEV,2011,2
+Austria,Buses,BEV,2011,5
+Brazil,Buses,BEV,2011,3
+Belgium,Cars,BEV,2011,280
+Belgium,Vans,BEV,2011,25
+Belgium,Cars,PHEV,2011,16
+Belgium,Trucks,BEV,2011,1
+Austria,Vans,BEV,2011,12
+Denmark,Buses,BEV,2012,1
+EU27,Trucks,BEV,2012,7
+New Zealand,Cars,PHEV,2012,5
+Sweden,Cars,PHEV,2012,660
+United Kingdom,Trucks,BEV,2012,6
+Brazil,Cars,BEV,2012,74
+New Zealand,Cars,BEV,2012,22
+Denmark,Cars,BEV,2012,490
+Finland,Cars,BEV,2012,51
+Italy,Vans,BEV,2012,360
+Italy,Trucks,BEV,2012,3
+EU27,Cars,PHEV,2012,7300
+China,Vans,BEV,2012,670
+United Kingdom,Buses,BEV,2012,14
+Germany,Cars,BEV,2012,2200
+Switzerland,Cars,PHEV,2012,400
+Norway,Cars,BEV,2012,3900
+Italy,Cars,BEV,2012,460
+China,Trucks,BEV,2012,430
+Norway,Cars,PHEV,2012,320
+China,Cars,PHEV,2012,260
+Norway,Vans,BEV,2012,61
+Europe,Vans,BEV,2012,7100
+New Zealand,Buses,BEV,2012,1
+Italy,Vans,PHEV,2012,3
+Brazil,Cars,PHEV,2012,18
+Korea,Buses,BEV,2012,2
+Brazil,Buses,BEV,2012,94
+EU27,Buses,BEV,2012,41
+Denmark,Vans,PHEV,2012,8
+Korea,Cars,BEV,2012,510
+Germany,Vans,BEV,2012,950
+Belgium,Cars,BEV,2012,570
+Mexico,Cars,BEV,2012,88
+Sweden,Vans,BEV,2012,280
+Denmark,Vans,BEV,2012,130
+Austria,Vans,BEV,2012,260
+Rest of the world,Cars,PHEV,2012,68
+United Kingdom,Cars,PHEV,2012,970
+Netherlands,Cars,BEV,2012,790
+Denmark,Trucks,BEV,2012,1
+Japan,Buses,BEV,2012,4
+Netherlands,Cars,PHEV,2012,4300
+Netherlands,Trucks,BEV,2012,3
+Europe,Vans,PHEV,2012,11
+Germany,Cars,PHEV,2012,1200
+Europe,Cars,PHEV,2012,9000
+Turkiye,Cars,BEV,2012,92
+Denmark,Cars,PHEV,2012,12
+Netherlands,Vans,BEV,2012,340
+Switzerland,Vans,BEV,2012,120
+EU27,Vans,PHEV,2012,11
+EU27,Vans,BEV,2012,6500
+Rest of the world,Cars,BEV,2012,280
+Switzerland,Cars,BEV,2012,340
+Other Europe,Vans,BEV,2012,44
+Spain,Cars,PHEV,2012,110
+Poland,Cars,BEV,2012,44
+Iceland,Buses,BEV,2012,1
+Poland,Cars,PHEV,2012,4
+India,Cars,BEV,2012,190
+Spain,Vans,BEV,2012,200
+Canada,Trucks,BEV,2012,3
+France,Cars,BEV,2012,5700
+Poland,Vans,BEV,2012,16
+Iceland,Cars,BEV,2012,17
+Belgium,Cars,PHEV,2012,340
+Canada,Cars,PHEV,2012,1300
+Iceland,Trucks,BEV,2012,3
+Portugal,Vans,BEV,2012,16
+Europe,Trucks,BEV,2012,16
+United Kingdom,Cars,BEV,2012,1600
+Canada,Cars,BEV,2012,620
+Australia,Cars,PHEV,2012,80
+Portugal,Cars,BEV,2012,52
+Belgium,Vans,BEV,2012,260
+Iceland,Cars,PHEV,2012,9
+France,Buses,BEV,2012,25
+United Kingdom,Vans,BEV,2012,410
+Chile,Cars,BEV,2012,5
+France,Cars,PHEV,2012,600
+Japan,Vans,BEV,2012,2500
+Other Europe,Cars,PHEV,2012,4
+Europe,Buses,BEV,2012,56
+Australia,Cars,BEV,2012,170
+Other Europe,Buses,BEV,2012,1
+Israel,Cars,BEV,2012,600
+China,Buses,BEV,2012,1400
+Austria,Buses,BEV,2012,14
+France,Vans,BEV,2012,3600
+Other Europe,Cars,BEV,2012,750
+Spain,Cars,BEV,2012,430
+Sweden,Cars,BEV,2012,270
+China,Buses,PHEV,2012,1000
+Israel,Cars,PHEV,2012,1
+Finland,Cars,PHEV,2012,130
+EU27,Buses,BEV,2013,47
+Iceland,Trucks,BEV,2013,8
+Spain,Cars,BEV,2013,810
+Israel,Cars,BEV,2013,460
+Iceland,Cars,PHEV,2013,23
+Sweden,Vans,BEV,2013,210
+Brazil,Buses,BEV,2013,120
+Austria,Vans,BEV,2013,3
+Israel,Cars,PHEV,2013,17
+South Africa,Cars,BEV,2013,34
+EU27,Vans,BEV,2013,6600
+United Kingdom,Cars,PHEV,2013,1100
+Italy,Cars,BEV,2013,860
+Europe,Vans,PHEV,2013,5
+Europe,Buses,BEV,2013,70
+Italy,Vans,BEV,2013,180
+Belgium,Vans,BEV,2013,110
+EU27,Trucks,BEV,2013,26
+Europe,Vans,BEV,2013,7300
+EU27,Vans,PHEV,2013,5
+Italy,Vans,PHEV,2013,1
+Europe,Trucks,BEV,2013,34
+Italy,Trucks,BEV,2013,8
+Israel,Buses,BEV,2013,0
+Greece,Cars,BEV,2013,3
+Spain,Vans,BEV,2013,72
+Italy,Cars,PHEV,2013,180
+United Kingdom,Cars,BEV,2013,2600
+Germany,Vans,PHEV,2013,2
+Japan,Buses,BEV,2013,7
+India,Cars,BEV,2013,410
+Turkiye,Cars,PHEV,2013,1
+Iceland,Cars,BEV,2013,80
+Germany,Vans,BEV,2013,600
+Japan,Vans,BEV,2013,2100
+China,Cars,PHEV,2013,730
+Norway,Cars,PHEV,2013,340
+Norway,Vans,BEV,2013,340
+Australia,Cars,BEV,2013,190
+France,Vans,BEV,2013,5100
+China,Buses,PHEV,2013,3500
+Brazil,Cars,PHEV,2013,33
+China,Buses,BEV,2013,2000
+Austria,Buses,BEV,2013,15
+Other Europe,Buses,BEV,2013,1
+France,Cars,PHEV,2013,830
+Switzerland,Cars,BEV,2013,1200
+Other Europe,Cars,BEV,2013,220
+Finland,Cars,PHEV,2013,170
+Chile,Cars,BEV,2013,5
+Sweden,Cars,BEV,2013,430
+Portugal,Cars,PHEV,2013,37
+France,Buses,BEV,2013,24
+Portugal,Cars,BEV,2013,170
+Canada,Cars,BEV,2013,1600
+Australia,Cars,PHEV,2013,100
+Spain,Cars,PHEV,2013,72
+China,Trucks,BEV,2013,860
+United Kingdom,Vans,BEV,2013,290
+Poland,Vans,BEV,2013,10
+Poland,Trucks,BEV,2013,1
+Canada,Trucks,BEV,2013,8
+Poland,Cars,PHEV,2013,6
+France,Cars,BEV,2013,8800
+Poland,Cars,BEV,2013,31
+Canada,Cars,PHEV,2013,1500
+Rest of the world,Cars,BEV,2013,140
+Norway,Cars,BEV,2013,7900
+Switzerland,Cars,PHEV,2013,170
+Korea,Buses,BEV,2013,6
+Belgium,Cars,PHEV,2013,60
+Denmark,Vans,PHEV,2013,2
+Korea,Cars,BEV,2013,600
+Mexico,Cars,BEV,2013,12
+Belgium,Cars,BEV,2013,500
+Denmark,Vans,BEV,2013,100
+United Kingdom,Buses,BEV,2013,23
+Switzerland,Vans,BEV,2013,110
+Netherlands,Buses,BEV,2013,5
+Denmark,Trucks,BEV,2013,1
+Netherlands,Cars,BEV,2013,2600
+Germany,Cars,PHEV,2013,1600
+Denmark,Cars,PHEV,2013,10
+Netherlands,Vans,BEV,2013,180
+Netherlands,Trucks,BEV,2013,16
+Rest of the world,Cars,PHEV,2013,21
+Finland,Cars,BEV,2013,50
+China,Vans,BEV,2013,750
+New Zealand,Cars,PHEV,2013,6
+Sweden,Cars,PHEV,2013,1100
+Brazil,Cars,BEV,2013,130
+Denmark,Buses,BEV,2013,2
+Austria,Cars,BEV,2013,650
+New Zealand,Cars,BEV,2013,30
+Germany,Cars,BEV,2013,5200
+Denmark,Cars,BEV,2013,500
+Germany,Cars,PHEV,2014,4400
+Germany,Cars,BEV,2014,9100
+Germany,Vans,BEV,2014,720
+France,Buses,BEV,2014,40
+Spain,Cars,BEV,2014,1400
+France,Vans,BEV,2014,4500
+Greece,Cars,BEV,2014,39
+France,Cars,PHEV,2014,2100
+United Kingdom,Buses,BEV,2014,47
+Belgium,Cars,BEV,2014,1300
+Korea,Buses,BEV,2014,3
+Iceland,Cars,PHEV,2014,29
+Austria,Cars,BEV,2014,1700
+New Zealand,Cars,BEV,2014,110
+New Zealand,Cars,PHEV,2014,210
+Switzerland,Cars,PHEV,2014,200
+Rest of the world,Cars,BEV,2014,120
+Norway,Cars,PHEV,2014,1700
+Norway,Vans,BEV,2014,560
+Austria,Buses,BEV,2014,1
+Other Europe,Buses,BEV,2014,4
+Switzerland,Cars,BEV,2014,2700
+Netherlands,Vans,BEV,2014,590
+Other Europe,Cars,BEV,2014,1200
+Other Europe,Trucks,BEV,2014,5
+Other Europe,Vans,BEV,2014,35
+Poland,Cars,BEV,2014,140
+Poland,Cars,PHEV,2014,61
+Australia,Cars,PHEV,2014,950
+Poland,Vans,BEV,2014,8
+Portugal,Vans,BEV,2014,27
+Portugal,Buses,PHEV,2014,2
+Portugal,Cars,BEV,2014,190
+Portugal,Cars,PHEV,2014,9
+Other Europe,Cars,PHEV,2014,2
+Rest of the world,Cars,PHEV,2014,400
+Netherlands,Trucks,BEV,2014,7
+Netherlands,Cars,BEV,2014,2700
+Iceland,Trucks,BEV,2014,6
+Spain,Buses,BEV,2014,11
+India,Cars,BEV,2014,1000
+Turkiye,Cars,PHEV,2014,22
+South Africa,Cars,PHEV,2014,1
+Belgium,Buses,BEV,2014,3
+Israel,Cars,BEV,2014,6
+Israel,Cars,PHEV,2014,52
+United Kingdom,Vans,PHEV,2014,4
+Italy,Cars,BEV,2014,1000
+Italy,Cars,PHEV,2014,340
+Italy,Trucks,BEV,2014,6
+Italy,Vans,BEV,2014,270
+Turkiye,Cars,BEV,2014,46
+Austria,Vans,BEV,2014,11
+Japan,Buses,BEV,2014,6
+South Africa,Cars,BEV,2014,14
+Japan,Vans,BEV,2014,1000
+Korea,Cars,BEV,2014,1300
+Sweden,Vans,BEV,2014,280
+Mexico,Cars,BEV,2014,48
+Switzerland,Vans,BEV,2014,52
+Netherlands,Buses,BEV,2014,7
+Iceland,Cars,BEV,2014,200
+Belgium,Cars,PHEV,2014,650
+Iceland,Vans,BEV,2014,8
+Denmark,Vans,PHEV,2014,2
+Chile,Cars,BEV,2014,3
+Denmark,Cars,BEV,2014,1600
+United Kingdom,Cars,BEV,2014,6700
+Belgium,Trucks,BEV,2014,1
+Belgium,Vans,BEV,2014,99
+United Kingdom,Cars,PHEV,2014,7800
+EU27,Trucks,BEV,2014,19
+Denmark,Vans,BEV,2014,47
+Australia,Cars,BEV,2014,370
+Europe,Vans,BEV,2014,8300
+Europe,Buses,BEV,2014,110
+China,Buses,BEV,2014,4100
+Europe,Buses,PHEV,2014,2
+Canada,Trucks,BEV,2014,6
+Canada,Cars,PHEV,2014,2300
+Spain,Cars,PHEV,2014,330
+EU27,Buses,PHEV,2014,2
+Europe,Vans,PHEV,2014,6
+Denmark,Cars,PHEV,2014,90
+China,Vans,BEV,2014,480
+United Kingdom,Trucks,BEV,2014,8
+Sweden,Cars,PHEV,2014,3400
+Finland,Cars,BEV,2014,180
+Finland,Cars,PHEV,2014,260
+EU27,Buses,BEV,2014,66
+China,Trucks,BEV,2014,340
+Sweden,Cars,BEV,2014,1200
+Europe,Trucks,BEV,2014,33
+EU27,Vans,PHEV,2014,2
+Chile,Cars,PHEV,2014,14
+Canada,Cars,BEV,2014,2800
+Brazil,Cars,BEV,2014,61
+United Kingdom,Vans,BEV,2014,790
+EU27,Vans,BEV,2014,6900
+Spain,Vans,BEV,2014,360
+Other Europe,Cars,BEV,2015,1300
+Japan,Buses,BEV,2015,2
+Chile,Cars,PHEV,2015,23
+Korea,Buses,BEV,2015,2
+Other Europe,Cars,PHEV,2015,140
+Iceland,Cars,PHEV,2015,170
+United Kingdom,Vans,BEV,2015,960
+Chile,Cars,BEV,2015,13
+EU27,Buses,PHEV,2015,5
+Denmark,Cars,BEV,2015,4300
+Iceland,Cars,BEV,2015,390
+EU27,Buses,BEV,2015,93
+Europe,Trucks,BEV,2015,25
+Austria,Cars,BEV,2015,1700
+Canada,Vans,PHEV,2015,5
+New Zealand,Cars,BEV,2015,300
+Europe,Buses,PHEV,2015,5
+Turkiye,Cars,PHEV,2015,110
+Iceland,Vans,BEV,2015,9
+Italy,Cars,BEV,2015,1500
+Norway,Cars,PHEV,2015,7900
+Brazil,Cars,BEV,2015,59
+Rest of the world,Cars,BEV,2015,3300
+Israel,Cars,PHEV,2015,65
+EU27,Vans,BEV,2015,7900
+Italy,Cars,PHEV,2015,740
+Austria,Buses,BEV,2015,12
+Switzerland,Cars,PHEV,2015,2400
+Israel,Cars,BEV,2015,3
+EU27,Vans,PHEV,2015,110
+United Kingdom,Trucks,BEV,2015,3
+Norway,Vans,BEV,2015,710
+South Africa,Cars,PHEV,2015,120
+Iceland,Trucks,BEV,2015,9
+EU27,Trucks,BEV,2015,13
+Switzerland,Cars,BEV,2015,3300
+Turkiye,Cars,BEV,2015,120
+Europe,Buses,BEV,2015,120
+Brazil,Cars,PHEV,2015,28
+Austria,Vans,BEV,2015,33
+Spain,Vans,BEV,2015,540
+India,Cars,BEV,2015,450
+Other Europe,Buses,BEV,2015,5
+Italy,Vans,BEV,2015,420
+Sweden,Buses,PHEV,2015,5
+Spain,Buses,BEV,2015,2
+New Zealand,Cars,PHEV,2015,200
+South Africa,Cars,BEV,2015,120
+India,Buses,BEV,2015,100
+Italy,Trucks,BEV,2015,9
+Japan,Vans,BEV,2015,830
+Other Europe,Vans,BEV,2015,71
+Belgium,Vans,BEV,2015,68
+Australia,Cars,BEV,2015,760
+Netherlands,Cars,BEV,2015,3800
+Mexico,Cars,PHEV,2015,7
+Australia,Cars,PHEV,2015,1000
+Belgium,Cars,PHEV,2015,2500
+Belgium,Cars,BEV,2015,1400
+Korea,Cars,PHEV,2015,250
+Switzerland,Vans,BEV,2015,160
+Finland,Cars,BEV,2015,240
+Netherlands,Trucks,BEV,2015,4
+Denmark,Cars,PHEV,2015,420
+Finland,Cars,PHEV,2015,420
+Korea,Cars,BEV,2015,3100
+Sweden,Vans,BEV,2015,320
+Canada,Cars,PHEV,2015,2400
+France,Vans,PHEV,2015,10
+United Kingdom,Buses,BEV,2015,24
+France,Cars,PHEV,2015,5700
+Poland,Vans,BEV,2015,13
+Korea,Vans,BEV,2015,18
+Austria,Cars,PHEV,2015,1100
+France,Vans,BEV,2015,4900
+Sweden,Vans,PHEV,2015,7
+Denmark,Vans,BEV,2015,260
+Poland,Vans,PHEV,2015,2
+Mexico,Cars,BEV,2015,92
+Canada,Cars,BEV,2015,4400
+Sweden,Cars,BEV,2015,3000
+Portugal,Cars,BEV,2015,640
+Portugal,Vans,BEV,2015,58
+Spain,Cars,PHEV,2015,780
+Netherlands,Vans,BEV,2015,200
+Greece,Cars,PHEV,2015,22
+Canada,Vans,BEV,2015,1
+Portugal,Cars,PHEV,2015,480
+Poland,Cars,BEV,2015,70
+Greece,Cars,BEV,2015,35
+Denmark,Vans,PHEV,2015,85
+Sweden,Cars,PHEV,2015,5700
+Rest of the world,Cars,PHEV,2015,900
+Germany,Vans,PHEV,2015,2
+France,Buses,BEV,2015,51
+Netherlands,Buses,BEV,2015,14
+Canada,Trucks,BEV,2015,9
+United Kingdom,Vans,PHEV,2015,98
+Germany,Vans,BEV,2015,1000
+Spain,Cars,BEV,2015,1300
+Europe,Vans,PHEV,2015,200
+Brazil,Buses,BEV,2015,13
+Rest of the world,Vans,BEV,2015,21
+Poland,Cars,PHEV,2015,150
+Sweden,Buses,BEV,2015,9
+Belgium,Vans,BEV,2016,140
+Mexico,Cars,BEV,2016,250
+Netherlands,Cars,BEV,2016,4100
+Netherlands,Buses,BEV,2016,74
+Italy,Cars,PHEV,2016,1300
+Brazil,Buses,BEV,2016,15
+Italy,Cars,BEV,2016,1400
+Rest of the world,Cars,BEV,2016,890
+Norway,Buses,BEV,2016,13
+Mexico,Cars,PHEV,2016,520
+South Africa,Cars,BEV,2016,100
+Denmark,Cars,BEV,2016,1300
+EU27,Trucks,BEV,2016,23
+Sweden,Vans,BEV,2016,45
+Netherlands,Vans,BEV,2016,170
+Sweden,Buses,BEV,2016,33
+Denmark,Vans,PHEV,2016,81
+EU27,Buses,BEV,2016,430
+Japan,Cars,PHEV,2016,9400
+Korea,Buses,BEV,2016,30
+Austria,Cars,BEV,2016,3800
+Rest of the world,Vans,BEV,2016,18
+New Zealand,Cars,BEV,2016,1200
+Japan,Buses,BEV,2016,8
+EU27,Buses,PHEV,2016,140
+Switzerland,Cars,PHEV,2016,2800
+Korea,Cars,BEV,2016,4700
+United Kingdom,Vans,PHEV,2016,78
+United Kingdom,Vans,BEV,2016,1000
+Denmark,Buses,BEV,2016,3
+Korea,Cars,PHEV,2016,330
+Italy,Vans,BEV,2016,780
+Japan,Vans,BEV,2016,320
+Switzerland,Vans,BEV,2016,85
+New Zealand,Cars,PHEV,2016,340
+Austria,Vans,BEV,2016,140
+Korea,Vans,BEV,2016,14
+Rest of the world,Cars,PHEV,2016,700
+Denmark,Vans,BEV,2016,57
+Spain,Vans,BEV,2016,720
+Denmark,Cars,PHEV,2016,570
+Switzerland,Cars,BEV,2016,3300
+China,Trucks,PHEV,2016,5
+Turkiye,Cars,BEV,2016,44
+Finland,Cars,BEV,2016,220
+Other Europe,Vans,BEV,2016,130
+Belgium,Trucks,BEV,2016,1
+Other Europe,Trucks,BEV,2016,8
+Iceland,Cars,BEV,2016,380
+France,Vans,BEV,2016,5500
+Other Europe,Cars,PHEV,2016,540
+Iceland,Cars,PHEV,2016,780
+Switzerland,Buses,BEV,2016,5
+Other Europe,Cars,BEV,2016,1500
+United Kingdom,Buses,BEV,2016,59
+Canada,Cars,BEV,2016,5200
+Poland,Trucks,BEV,2016,1
+Chile,Cars,BEV,2016,22
+Portugal,Cars,PHEV,2016,1000
+Poland,Vans,BEV,2016,16
+Greece,Cars,PHEV,2016,56
+Belgium,Cars,BEV,2016,2100
+Germany,Buses,PHEV,2016,120
+Poland,Cars,PHEV,2016,400
+Europe,Vans,PHEV,2016,160
+Germany,Vans,BEV,2016,2400
+Spain,Cars,BEV,2016,2000
+Germany,Buses,BEV,2016,110
+Belgium,Cars,PHEV,2016,7100
+Portugal,Vans,BEV,2016,44
+Poland,Cars,BEV,2016,110
+Europe,Trucks,BEV,2016,31
+Greece,Cars,BEV,2016,41
+Australia,Cars,BEV,2016,670
+Canada,Cars,PHEV,2016,6400
+Australia,Cars,PHEV,2016,700
+France,Cars,PHEV,2016,7400
+Europe,Buses,PHEV,2016,270
+Spain,Trucks,BEV,2016,13
+Austria,Buses,BEV,2016,22
+Israel,Cars,BEV,2016,5
+EU27,Vans,PHEV,2016,81
+Norway,Vans,BEV,2016,640
+Portugal,Cars,BEV,2016,810
+Sweden,Buses,PHEV,2016,17
+Israel,Buses,BEV,2016,5
+South Africa,Cars,PHEV,2016,280
+Iceland,Vans,BEV,2016,20
+Austria,Cars,PHEV,2016,1200
+India,Vans,BEV,2016,180
+Brazil,Cars,PHEV,2016,47
+Israel,Cars,PHEV,2016,63
+United Kingdom,Trucks,BEV,2016,8
+Brazil,Cars,BEV,2016,130
+India,Cars,BEV,2016,730
+Chile,Cars,PHEV,2016,9
+United Kingdom,Buses,PHEV,2016,140
+Turkiye,Cars,PHEV,2016,83
+Spain,Buses,BEV,2016,27
+India,Buses,BEV,2016,25
+France,Buses,PHEV,2016,1
+Finland,Cars,PHEV,2016,1200
+Sweden,Cars,BEV,2016,2900
+Other Europe,Buses,BEV,2016,54
+Europe,Buses,BEV,2016,510
+Spain,Cars,PHEV,2016,1500
+Italy,Buses,BEV,2016,38
+Canada,Buses,BEV,2016,5
+France,Buses,BEV,2016,74
+Denmark,Trucks,BEV,2017,1
+Canada,Buses,BEV,2017,11
+Netherlands,Cars,BEV,2017,9200
+Portugal,Cars,BEV,2017,1900
+Denmark,Cars,PHEV,2017,620
+Rest of the world,Cars,PHEV,2017,550
+Netherlands,Cars,PHEV,2017,1100
+Poland,Vans,BEV,2017,28
+Canada,Cars,BEV,2017,8700
+Portugal,Buses,PHEV,2017,2
+Canada,Cars,PHEV,2017,8000
+Sweden,Cars,BEV,2017,4400
+Rest of the world,Buses,BEV,2017,5
+Poland,Cars,PHEV,2017,640
+Norway,Buses,BEV,2017,18
+Austria,Buses,BEV,2017,3
+Brazil,Cars,BEV,2017,25
+Norway,Trucks,BEV,2017,2
+Switzerland,Cars,BEV,2017,4800
+Norway,Vans,BEV,2017,770
+Rest of the world,Cars,BEV,2017,1700
+China,Buses,PHEV,2017,480
+New Zealand,Cars,PHEV,2017,540
+Other Europe,Buses,BEV,2017,86
+Chile,Cars,PHEV,2017,15
+Other Europe,Buses,PHEV,2017,25
+Sweden,Vans,BEV,2017,200
+Switzerland,Cars,PHEV,2017,3600
+Switzerland,Buses,BEV,2017,2
+New Zealand,Cars,BEV,2017,2900
+Chile,Cars,BEV,2017,120
+Other Europe,Cars,BEV,2017,3200
+New Zealand,Buses,BEV,2017,1
+Other Europe,Cars,PHEV,2017,1800
+Brazil,Cars,PHEV,2017,290
+United Kingdom,Vans,PHEV,2017,94
+Other Europe,Vans,BEV,2017,240
+Portugal,Vans,BEV,2017,190
+Denmark,Cars,BEV,2017,710
+Netherlands,Vans,BEV,2017,510
+Australia,Cars,PHEV,2017,1100
+Sweden,Buses,BEV,2017,12
+Poland,Cars,BEV,2017,440
+Austria,Cars,BEV,2017,5400
+United Kingdom,Trucks,BEV,2017,4
+Austria,Cars,PHEV,2017,1700
+Portugal,Cars,PHEV,2017,2500
+Iceland,Cars,PHEV,2017,2200
+Italy,Vans,BEV,2017,500
+Europe,Vans,PHEV,2017,120
+Belgium,Vans,PHEV,2017,1
+Italy,Vans,PHEV,2017,2
+Spain,Trucks,BEV,2017,2
+South Africa,Cars,PHEV,2017,130
+United Kingdom,Vans,BEV,2017,1300
+EU27,Buses,PHEV,2017,34
+India,Vans,BEV,2017,1200
+Finland,Buses,BEV,2017,2
+United Kingdom,Buses,PHEV,2017,18
+Spain,Vans,BEV,2017,840
+Spain,Buses,PHEV,2017,5
+Spain,Cars,BEV,2017,3900
+Japan,Buses,BEV,2017,10
+Turkiye,Cars,PHEV,2017,34
+Germany,Vans,BEV,2017,4500
+Austria,Vans,BEV,2017,270
+Greece,Cars,PHEV,2017,140
+Turkiye,Cars,BEV,2017,77
+Australia,Cars,BEV,2017,1200
+Italy,Buses,BEV,2017,29
+Israel,Cars,BEV,2017,130
+Greece,Cars,BEV,2017,50
+Europe,Trucks,BEV,2017,12
+South Africa,Cars,BEV,2017,68
+EU27,Vans,PHEV,2017,27
+Belgium,Vans,BEV,2017,130
+Italy,Cars,BEV,2017,2000
+EU27,Trucks,BEV,2017,6
+Italy,Cars,PHEV,2017,2900
+Belgium,Buses,PHEV,2017,2
+Israel,Buses,BEV,2017,40
+Iceland,Buses,BEV,2017,1
+EU27,Buses,BEV,2017,310
+Germany,Buses,BEV,2017,29
+France,Vans,BEV,2017,6000
+India,Cars,BEV,2017,920
+Switzerland,Vans,BEV,2017,220
+Spain,Buses,BEV,2017,8
+United Kingdom,Buses,BEV,2017,39
+Iceland,Vans,BEV,2017,29
+Finland,Trucks,BEV,2017,2
+Korea,Cars,PHEV,2017,670
+Europe,Buses,PHEV,2017,52
+Mexico,Cars,BEV,2017,230
+Mexico,Cars,PHEV,2017,970
+Spain,Cars,PHEV,2017,3500
+Finland,Vans,BEV,2017,49
+Brazil,Buses,BEV,2017,2
+Netherlands,Buses,BEV,2017,130
+France,Buses,BEV,2017,17
+India,Buses,BEV,2017,20
+Denmark,Vans,BEV,2017,70
+Israel,Cars,PHEV,2017,1500
+France,Trucks,BEV,2017,1
+Finland,Cars,BEV,2017,500
+Denmark,Vans,PHEV,2017,24
+Rest of the world,Vans,BEV,2017,33
+Iceland,Cars,BEV,2017,850
+Japan,Vans,BEV,2017,320
+Belgium,Cars,BEV,2017,2700
+Finland,Cars,PHEV,2017,2600
+Europe,Buses,BEV,2017,410
+Poland,Buses,BEV,2018,63
+Other Europe,Cars,BEV,2018,6300
+Portugal,Vans,BEV,2018,250
+Sweden,Trucks,BEV,2018,2
+Europe,Buses,PHEV,2018,130
+Sweden,Vans,BEV,2018,760
+Iceland,Cars,BEV,2018,780
+Rest of the world,Buses,BEV,2018,140
+Other Europe,Vans,BEV,2018,320
+Belgium,Trucks,BEV,2018,1
+Spain,Buses,PHEV,2018,8
+Rest of the world,Buses,PHEV,2018,40
+Other Europe,Cars,PHEV,2018,2300
+Turkiye,Cars,PHEV,2018,45
+Greece,Vans,BEV,2018,13
+United Kingdom,Vans,BEV,2018,1500
+United Kingdom,Trucks,BEV,2018,12
+Denmark,Trucks,BEV,2018,3
+Greece,Cars,PHEV,2018,210
+Finland,Vans,BEV,2018,55
+Portugal,Cars,PHEV,2018,3900
+Portugal,Cars,BEV,2018,4100
+France,Buses,BEV,2018,95
+Canada,Buses,BEV,2018,19
+Spain,Cars,PHEV,2018,5600
+Brazil,Trucks,BEV,2018,40
+Finland,Cars,PHEV,2018,4900
+United Kingdom,Vans,PHEV,2018,150
+France,Trucks,BEV,2018,5
+Portugal,Buses,BEV,2018,10
+Sweden,Vans,PHEV,2018,9
+Belgium,Cars,BEV,2018,3600
+Finland,Cars,BEV,2018,780
+Poland,Vans,BEV,2018,42
+France,Vans,BEV,2018,8200
+Spain,Cars,BEV,2018,6000
+Australia,Cars,PHEV,2018,1800
+Greece,Cars,BEV,2018,88
+Canada,Trucks,BEV,2018,7
+Europe,Trucks,BEV,2018,340
+Poland,Cars,BEV,2018,620
+Greece,Buses,BEV,2018,1
+Poland,Buses,PHEV,2018,38
+Switzerland,Buses,BEV,2018,18
+Europe,Vans,PHEV,2018,190
+Poland,Cars,PHEV,2018,760
+Germany,Trucks,BEV,2018,280
+United Kingdom,Buses,PHEV,2018,65
+Finland,Buses,BEV,2018,1
+Germany,Buses,BEV,2018,43
+Germany,Vans,BEV,2018,6000
+Brazil,Cars,PHEV,2018,230
+Europe,Buses,BEV,2018,660
+Belgium,Vans,BEV,2018,260
+Denmark,Vans,PHEV,2018,31
+Spain,Vans,BEV,2018,1800
+Japan,Trucks,BEV,2018,5
+New Zealand,Buses,BEV,2018,11
+Switzerland,Cars,PHEV,2018,4400
+EU27,Buses,BEV,2018,520
+Sweden,Buses,BEV,2018,36
+Netherlands,Vans,BEV,2018,980
+Denmark,Buses,BEV,2018,2
+New Zealand,Cars,BEV,2018,4400
+Rest of the world,Cars,BEV,2018,1600
+EU27,Buses,PHEV,2018,52
+Belgium,Vans,PHEV,2018,2
+Italy,Vans,BEV,2018,640
+Iceland,Cars,PHEV,2018,2900
+New Zealand,Cars,PHEV,2018,1200
+Japan,Buses,BEV,2018,10
+Austria,Vans,BEV,2018,460
+Japan,Vans,BEV,2018,280
+Denmark,Cars,BEV,2018,1500
+Netherlands,Buses,BEV,2018,110
+Brazil,Buses,BEV,2018,22
+Mexico,Cars,PHEV,2018,1600
+Mexico,Cars,BEV,2018,200
+Denmark,Cars,PHEV,2018,3100
+Austria,Cars,PHEV,2018,2300
+Netherlands,Cars,PHEV,2018,3500
+Rest of the world,Vans,BEV,2018,60
+Rest of the world,Trucks,BEV,2018,8
+Austria,Cars,BEV,2018,6800
+Korea,Cars,PHEV,2018,4400
+Netherlands,Trucks,BEV,2018,28
+Denmark,Vans,BEV,2018,220
+Switzerland,Vans,BEV,2018,300
+Korea,Buses,BEV,2018,50
+Austria,Trucks,BEV,2018,10
+Korea,Vans,BEV,2018,300
+Italy,Cars,PHEV,2018,4700
+United Kingdom,Buses,BEV,2018,89
+Israel,Buses,BEV,2018,23
+India,Cars,BEV,2018,920
+Belgium,Buses,BEV,2018,14
+Other Europe,Buses,BEV,2018,34
+South Africa,Cars,PHEV,2018,82
+India,Vans,BEV,2018,1500
+India,Buses,BEV,2018,210
+Norway,Vans,BEV,2018,1800
+EU27,Trucks,BEV,2018,330
+EU27,Vans,PHEV,2018,42
+Other Europe,Buses,PHEV,2018,23
+China,Buses,PHEV,2018,2400
+Israel,Cars,BEV,2018,130
+Chile,Cars,PHEV,2018,68
+Sweden,Cars,BEV,2018,7100
+Australia,Cars,BEV,2018,1800
+Turkiye,Cars,BEV,2018,190
+Italy,Cars,BEV,2018,5000
+Norway,Buses,BEV,2018,12
+China,Trucks,PHEV,2018,3600
+Brazil,Vans,BEV,2018,4
+Austria,Buses,BEV,2018,18
+Italy,Buses,BEV,2018,60
+South Africa,Cars,BEV,2018,66
+Chile,Cars,BEV,2018,110
+Israel,Cars,PHEV,2018,3600
+Spain,Buses,BEV,2018,30
+Switzerland,Cars,BEV,2018,5100
+Brazil,Cars,BEV,2018,66
+Rest of the world,Cars,PHEV,2018,2200
+Rest of the world,Cars,PHEV,2019,2400
+Sweden,Trucks,BEV,2019,2
+Australia,Cars,BEV,2019,6300
+Portugal,Cars,PHEV,2019,5800
+Spain,Trucks,BEV,2019,5
+Spain,Vans,BEV,2019,1900
+Spain,Cars,PHEV,2019,7400
+Spain,Buses,PHEV,2019,6
+Rest of the world,Vans,BEV,2019,180
+Rest of the world,Buses,BEV,2019,300
+Sweden,Vans,BEV,2019,1400
+Rest of the world,Cars,BEV,2019,4000
+Portugal,Vans,BEV,2019,210
+Sweden,Buses,BEV,2019,98
+South Africa,Cars,BEV,2019,160
+South Africa,Cars,PHEV,2019,72
+Spain,Buses,BEV,2019,100
+Brazil,Vans,BEV,2019,11
+Portugal,Cars,BEV,2019,6900
+Finland,Cars,BEV,2019,1900
+Finland,Cars,PHEV,2019,6000
+Finland,Trucks,BEV,2019,2
+Finland,Vans,BEV,2019,60
+United Kingdom,Buses,BEV,2019,120
+France,Buses,BEV,2019,280
+Belgium,Cars,BEV,2019,8800
+France,Trucks,BEV,2019,16
+France,Vans,BEV,2019,8100
+France,Vans,PHEV,2019,4
+Germany,Buses,BEV,2019,190
+Finland,Buses,BEV,2019,40
+Germany,Trucks,BEV,2019,610
+Greece,Buses,BEV,2019,1
+United Kingdom,Vans,BEV,2019,3500
+Greece,Cars,BEV,2019,190
+Belgium,Buses,PHEV,2019,11
+Greece,Cars,PHEV,2019,290
+Greece,Vans,BEV,2019,11
+Turkiye,Cars,PHEV,2019,94
+Iceland,Cars,BEV,2019,910
+Iceland,Cars,PHEV,2019,1700
+Iceland,Vans,BEV,2019,48
+Iceland,Vans,PHEV,2019,8
+Germany,Vans,BEV,2019,6700
+Europe,Vans,PHEV,2019,260
+Belgium,Cars,PHEV,2019,8900
+Europe,Trucks,BEV,2019,760
+Canada,Buses,BEV,2019,49
+Brazil,Trucks,BEV,2019,23
+Brazil,Cars,PHEV,2019,1400
+United Kingdom,Trucks,BEV,2019,20
+Chile,Cars,BEV,2019,160
+Chile,Cars,PHEV,2019,140
+China,Buses,PHEV,2019,2600
+Brazil,Cars,BEV,2019,540
+China,Trucks,PHEV,2019,2400
+China,Vans,PHEV,2019,27
+Denmark,Buses,BEV,2019,100
+Denmark,Buses,PHEV,2019,17
+Denmark,Cars,BEV,2019,5500
+Brazil,Buses,BEV,2019,69
+Denmark,Cars,PHEV,2019,3900
+Denmark,Trucks,BEV,2019,2
+Denmark,Vans,BEV,2019,270
+Denmark,Vans,PHEV,2019,34
+EU27,Buses,BEV,2019,1400
+EU27,Buses,PHEV,2019,46
+Belgium,Vans,BEV,2019,400
+EU27,Trucks,BEV,2019,710
+EU27,Vans,PHEV,2019,41
+Europe,Buses,BEV,2019,1800
+Europe,Buses,PHEV,2019,89
+India,Buses,BEV,2019,460
+India,Cars,BEV,2019,680
+Belgium,Buses,BEV,2019,37
+India,Vans,BEV,2019,790
+Netherlands,Vans,BEV,2019,1300
+Switzerland,Trucks,BEV,2019,23
+Switzerland,Cars,PHEV,2019,4300
+New Zealand,Buses,BEV,2019,13
+New Zealand,Cars,BEV,2019,5300
+New Zealand,Cars,PHEV,2019,1600
+New Zealand,Trucks,BEV,2019,34
+New Zealand,Vans,BEV,2019,70
+Norway,Buses,BEV,2019,160
+Austria,Buses,BEV,2019,22
+Norway,Vans,BEV,2019,2000
+Other Europe,Buses,BEV,2019,57
+India,Cars,PHEV,2019,7
+Other Europe,Buses,PHEV,2019,44
+Other Europe,Trucks,BEV,2019,2
+Other Europe,Vans,BEV,2019,650
+Australia,Cars,PHEV,2019,2900
+Other Europe,Vans,PHEV,2019,3
+Poland,Buses,BEV,2019,54
+Switzerland,Buses,BEV,2019,10
+Poland,Buses,PHEV,2019,1
+Poland,Cars,BEV,2019,1500
+Poland,Cars,PHEV,2019,1200
+Poland,Vans,BEV,2019,130
+Portugal,Buses,BEV,2019,17
+Portugal,Buses,PHEV,2019,10
+Other Europe,Cars,PHEV,2019,5000
+Austria,Cars,BEV,2019,9300
+Netherlands,Trucks,BEV,2019,73
+Netherlands,Buses,BEV,2019,370
+Israel,Buses,BEV,2019,16
+Turkiye,Cars,BEV,2019,230
+Israel,Cars,BEV,2019,850
+Israel,Cars,PHEV,2019,3900
+United Kingdom,Vans,PHEV,2019,210
+Austria,Vans,BEV,2019,500
+Italy,Cars,PHEV,2019,6500
+Netherlands,Cars,PHEV,2019,4900
+Japan,Buses,BEV,2019,8
+Japan,Trucks,BEV,2019,50
+Italy,Vans,BEV,2019,1000
+Mexico,Cars,BEV,2019,290
+Mexico,Cars,PHEV,2019,1400
+Japan,Vans,BEV,2019,520
+Korea,Vans,BEV,2019,1500
+Korea,Cars,PHEV,2019,2700
+Italy,Buses,BEV,2019,65
+Korea,Buses,BEV,2019,110
+Austria,Trucks,BEV,2019,2
+Switzerland,Vans,BEV,2019,580
+Austria,Cars,PHEV,2019,2200
+Turkiye,Cars,PHEV,2020,400
+Switzerland,Buses,BEV,2020,22
+Switzerland,Vans,PHEV,2020,9
+United Kingdom,Vans,BEV,2020,5700
+Switzerland,Trucks,BEV,2020,26
+United Kingdom,Buses,BEV,2020,300
+United Kingdom,Trucks,BEV,2020,16
+Turkiye,Cars,BEV,2020,890
+Sweden,Vans,BEV,2020,2100
+Sweden,Trucks,BEV,2020,17
+Switzerland,Vans,BEV,2020,780
+Israel,Vans,BEV,2020,45
+Spain,Vans,BEV,2020,2000
+EU27,Vans,PHEV,2020,520
+Europe,Buses,BEV,2020,6900
+Europe,Buses,PHEV,2020,390
+Europe,Trucks,BEV,2020,3000
+Europe,Trucks,PHEV,2020,3
+Europe,Vans,PHEV,2020,3300
+Finland,Buses,BEV,2020,25
+Finland,Cars,BEV,2020,4200
+Finland,Trucks,BEV,2020,5
+Finland,Vans,BEV,2020,170
+Finland,Vans,PHEV,2020,39
+France,Buses,BEV,2020,180
+EU27,Trucks,BEV,2020,960
+France,Trucks,BEV,2020,6
+Germany,Buses,BEV,2020,390
+Germany,Trucks,BEV,2020,850
+Germany,Vans,BEV,2020,8800
+Germany,Vans,PHEV,2020,180
+Greece,Buses,BEV,2020,3
+Greece,Cars,BEV,2020,680
+Greece,Cars,PHEV,2020,1500
+Greece,Vans,BEV,2020,14
+Greece,Vans,PHEV,2020,3
+Iceland,Cars,BEV,2020,2600
+Iceland,Cars,PHEV,2020,2400
+Iceland,Vans,BEV,2020,49
+France,Vans,BEV,2020,9200
+EU27,Buses,PHEV,2020,64
+EU27,Buses,BEV,2020,1700
+Denmark,Vans,PHEV,2020,160
+Australia,Cars,BEV,2020,5200
+Australia,Cars,PHEV,2020,1700
+Austria,Buses,BEV,2020,14
+Austria,Cars,PHEV,2020,7600
+Austria,Vans,BEV,2020,740
+Belgium,Buses,BEV,2020,12
+Belgium,Buses,PHEV,2020,43
+Belgium,Trucks,BEV,2020,3
+Belgium,Vans,BEV,2020,470
+Belgium,Vans,PHEV,2020,26
+Brazil,Buses,BEV,2020,55
+Brazil,Cars,BEV,2020,680
+Brazil,Cars,PHEV,2020,1800
+Brazil,Trucks,BEV,2020,15
+Brazil,Vans,BEV,2020,12
+Canada,Buses,BEV,2020,63
+Canada,Trucks,BEV,2020,7
+Canada,Vans,BEV,2020,1600
+Canada,Vans,PHEV,2020,1400
+Chile,Cars,BEV,2020,110
+Chile,Cars,PHEV,2020,79
+China,Buses,PHEV,2020,10800
+China,Trucks,PHEV,2020,1260
+China,Vans,PHEV,2020,3
+Denmark,Buses,BEV,2020,6
+Denmark,Trucks,BEV,2020,15
+Denmark,Vans,BEV,2020,620
+India,Buses,BEV,2020,6600
+Sweden,Buses,BEV,2020,160
+India,Cars,BEV,2020,9300
+India,Vans,BEV,2020,3000
+Norway,Vans,PHEV,2020,11
+Other Europe,Buses,BEV,2020,120
+Other Europe,Buses,PHEV,2020,14
+Other Europe,Trucks,BEV,2020,4
+Other Europe,Vans,BEV,2020,1200
+Other Europe,Vans,PHEV,2020,17
+Poland,Buses,BEV,2020,200
+Poland,Cars,BEV,2020,3700
+Poland,Cars,PHEV,2020,4500
+Poland,Vans,BEV,2020,220
+Poland,Vans,PHEV,2020,2
+Portugal,Buses,BEV,2020,10
+Norway,Vans,BEV,2020,2600
+Portugal,Cars,BEV,2020,7800
+Rest of the world,Buses,BEV,2020,6300
+Rest of the world,Buses,PHEV,2020,12
+Rest of the world,Cars,BEV,2020,5700
+Rest of the world,Cars,PHEV,2020,2800
+Rest of the world,Trucks,BEV,2020,273
+Rest of the world,Vans,BEV,2020,190
+Rest of the world,Vans,PHEV,2020,2800
+South Africa,Cars,BEV,2020,92
+South Africa,Cars,PHEV,2020,150
+Spain,Buses,BEV,2020,51
+Spain,Buses,PHEV,2020,7
+Spain,Trucks,BEV,2020,8
+Portugal,Vans,BEV,2020,260
+Norway,Trucks,PHEV,2020,1
+Norway,Trucks,BEV,2020,16
+Norway,Buses,PHEV,2020,63
+Israel,Buses,BEV,2020,24
+Israel,Cars,BEV,2020,1500
+Israel,Cars,PHEV,2020,5400
+Italy,Buses,BEV,2020,97
+Italy,Trucks,BEV,2020,11
+Italy,Vans,BEV,2020,1200
+Italy,Vans,PHEV,2020,53
+Japan,Buses,BEV,2020,10
+Japan,Trucks,BEV,2020,35
+Japan,Vans,BEV,2020,1500
+Korea,Buses,BEV,2020,700
+Korea,Cars,PHEV,2020,8700
+Korea,Trucks,BEV,2020,10
+Mexico,Cars,BEV,2020,1800
+Mexico,Cars,PHEV,2020,2000
+Mexico,Vans,BEV,2020,57
+Netherlands,Buses,BEV,2020,450
+Netherlands,Trucks,BEV,2020,39
+Netherlands,Vans,BEV,2020,1700
+Netherlands,Vans,PHEV,2020,33
+New Zealand,Buses,BEV,2020,17
+New Zealand,Cars,BEV,2020,3900
+New Zealand,Cars,PHEV,2020,1500
+New Zealand,Trucks,BEV,2020,24
+New Zealand,Vans,BEV,2020,78
+New Zealand,Vans,PHEV,2020,1
+Norway,Buses,BEV,2020,230
+India,Cars,PHEV,2020,129
+United Kingdom,Vans,PHEV,2020,560
